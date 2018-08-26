@@ -1,0 +1,14 @@
+name: Youtube Plugin
+author: xFr33z3
+version: 0.1
+main: freeze.yt
+commands:
+ fly:
+  Usage: /fly
+  description: enables players to fly
+ gm:
+  Usage: /gm <mode>
+  description: allows players to use gamemode
+ youtubereload:
+  Usage: /youtubereload
+  description: reload configuration file
