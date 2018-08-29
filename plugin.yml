@@ -12,3 +12,7 @@ commands:
  youtubereload:
   Usage: /youtubereload
   description: reload configuration file
+ damageme:
+  Usage: /damageme
+ enableonmove:
+  Usage: /enableOnMove
