@@ -1,2 +1,3 @@
 noPerm: "§4You don't have permission to use this command"
 gamemodeMessage: "§bYour gamemode has been updated to §3%mode%"
+sandBreak: "§6You have broken a §esand §6block."
